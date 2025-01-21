@@ -4,7 +4,7 @@ i like my cheese drippy bruh
 # header
 ## subheader
 
-[google][google.com]
+[google][www.google.com]
 
 - item 1
 - item 2
